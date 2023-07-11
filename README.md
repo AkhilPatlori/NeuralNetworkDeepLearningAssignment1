@@ -1,1 +1,3 @@
 # NeuralNetworkDeepLearningAssignment1
+Akhil Patlori
+700744211
